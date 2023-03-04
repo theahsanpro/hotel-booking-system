@@ -1,0 +1,28 @@
+D:\Uni\OOP\HotelManagementSystem\HotelManagementSystem\obj\Debug\netcoreapp3.1\HotelManagementSystem.csproj.AssemblyReference.cache
+D:\Uni\OOP\HotelManagementSystem\HotelManagementSystem\obj\Debug\netcoreapp3.1\HotelManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\OOP\HotelManagementSystem\HotelManagementSystem\obj\Debug\netcoreapp3.1\HotelManagementSystem.AssemblyInfoInputs.cache
+D:\Uni\OOP\HotelManagementSystem\HotelManagementSystem\obj\Debug\netcoreapp3.1\HotelManagementSystem.AssemblyInfo.cs
+D:\Uni\OOP\HotelManagementSystem\HotelManagementSystem\obj\Debug\netcoreapp3.1\HotelManagementSystem.csproj.CoreCompileInputs.cache
+D:\Uni\OOP\HotelManagementSystem\HotelManagementSystem\bin\Debug\netcoreapp3.1\HotelManagementSystem.exe
+D:\Uni\OOP\HotelManagementSystem\HotelManagementSystem\bin\Debug\netcoreapp3.1\HotelManagementSystem.deps.json
+D:\Uni\OOP\HotelManagementSystem\HotelManagementSystem\bin\Debug\netcoreapp3.1\HotelManagementSystem.runtimeconfig.json
+D:\Uni\OOP\HotelManagementSystem\HotelManagementSystem\bin\Debug\netcoreapp3.1\HotelManagementSystem.runtimeconfig.dev.json
+D:\Uni\OOP\HotelManagementSystem\HotelManagementSystem\bin\Debug\netcoreapp3.1\HotelManagementSystem.dll
+D:\Uni\OOP\HotelManagementSystem\HotelManagementSystem\bin\Debug\netcoreapp3.1\HotelManagementSystem.pdb
+D:\Uni\OOP\HotelManagementSystem\HotelManagementSystem\obj\Debug\netcoreapp3.1\HotelManagementSystem.dll
+D:\Uni\OOP\HotelManagementSystem\HotelManagementSystem\obj\Debug\netcoreapp3.1\HotelManagementSystem.pdb
+D:\Uni\OOP\HotelManagementSystem\HotelManagementSystem\obj\Debug\netcoreapp3.1\HotelManagementSystem.genruntimeconfig.cache
+D:\Uni\Sem 1\OOP\HotelManagementSystem\HotelManagementSystem\bin\Debug\netcoreapp3.1\HotelManagementSystem.exe
+D:\Uni\Sem 1\OOP\HotelManagementSystem\HotelManagementSystem\bin\Debug\netcoreapp3.1\HotelManagementSystem.deps.json
+D:\Uni\Sem 1\OOP\HotelManagementSystem\HotelManagementSystem\bin\Debug\netcoreapp3.1\HotelManagementSystem.runtimeconfig.json
+D:\Uni\Sem 1\OOP\HotelManagementSystem\HotelManagementSystem\bin\Debug\netcoreapp3.1\HotelManagementSystem.runtimeconfig.dev.json
+D:\Uni\Sem 1\OOP\HotelManagementSystem\HotelManagementSystem\bin\Debug\netcoreapp3.1\HotelManagementSystem.dll
+D:\Uni\Sem 1\OOP\HotelManagementSystem\HotelManagementSystem\bin\Debug\netcoreapp3.1\HotelManagementSystem.pdb
+D:\Uni\Sem 1\OOP\HotelManagementSystem\HotelManagementSystem\obj\Debug\netcoreapp3.1\HotelManagementSystem.csproj.AssemblyReference.cache
+D:\Uni\Sem 1\OOP\HotelManagementSystem\HotelManagementSystem\obj\Debug\netcoreapp3.1\HotelManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\Sem 1\OOP\HotelManagementSystem\HotelManagementSystem\obj\Debug\netcoreapp3.1\HotelManagementSystem.AssemblyInfoInputs.cache
+D:\Uni\Sem 1\OOP\HotelManagementSystem\HotelManagementSystem\obj\Debug\netcoreapp3.1\HotelManagementSystem.AssemblyInfo.cs
+D:\Uni\Sem 1\OOP\HotelManagementSystem\HotelManagementSystem\obj\Debug\netcoreapp3.1\HotelManagementSystem.csproj.CoreCompileInputs.cache
+D:\Uni\Sem 1\OOP\HotelManagementSystem\HotelManagementSystem\obj\Debug\netcoreapp3.1\HotelManagementSystem.dll
+D:\Uni\Sem 1\OOP\HotelManagementSystem\HotelManagementSystem\obj\Debug\netcoreapp3.1\HotelManagementSystem.pdb
+D:\Uni\Sem 1\OOP\HotelManagementSystem\HotelManagementSystem\obj\Debug\netcoreapp3.1\HotelManagementSystem.genruntimeconfig.cache
